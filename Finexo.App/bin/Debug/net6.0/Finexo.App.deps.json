@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Finexo.App/1.0.0": {
+        "dependencies": {
+          "Finexo.Service": "1.0.0"
+        },
+        "runtime": {
+          "Finexo.App.dll": {}
+        }
+      },
+      "Finexo.Core/1.0.0": {
+        "runtime": {
+          "Finexo.Core.dll": {}
+        }
+      },
+      "Finexo.Data/1.0.0": {
+        "dependencies": {
+          "Finexo.Core": "1.0.0"
+        },
+        "runtime": {
+          "Finexo.Data.dll": {}
+        }
+      },
+      "Finexo.Service/1.0.0": {
+        "dependencies": {
+          "Finexo.Data": "1.0.0"
+        },
+        "runtime": {
+          "Finexo.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Finexo.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Finexo.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Finexo.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Finexo.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

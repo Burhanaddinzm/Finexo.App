@@ -1,0 +1,17 @@
+C:\Users\Burhan\source\repos\Finexo.App\Finexo.Service\bin\Debug\net6.0\Finexo.Service.deps.json
+C:\Users\Burhan\source\repos\Finexo.App\Finexo.Service\bin\Debug\net6.0\Finexo.Service.dll
+C:\Users\Burhan\source\repos\Finexo.App\Finexo.Service\bin\Debug\net6.0\Finexo.Service.pdb
+C:\Users\Burhan\source\repos\Finexo.App\Finexo.Service\bin\Debug\net6.0\Finexo.Core.dll
+C:\Users\Burhan\source\repos\Finexo.App\Finexo.Service\bin\Debug\net6.0\Finexo.Data.dll
+C:\Users\Burhan\source\repos\Finexo.App\Finexo.Service\bin\Debug\net6.0\Finexo.Data.pdb
+C:\Users\Burhan\source\repos\Finexo.App\Finexo.Service\bin\Debug\net6.0\Finexo.Core.pdb
+C:\Users\Burhan\source\repos\Finexo.App\Finexo.Service\obj\Debug\net6.0\Finexo.Service.csproj.AssemblyReference.cache
+C:\Users\Burhan\source\repos\Finexo.App\Finexo.Service\obj\Debug\net6.0\Finexo.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burhan\source\repos\Finexo.App\Finexo.Service\obj\Debug\net6.0\Finexo.Service.AssemblyInfoInputs.cache
+C:\Users\Burhan\source\repos\Finexo.App\Finexo.Service\obj\Debug\net6.0\Finexo.Service.AssemblyInfo.cs
+C:\Users\Burhan\source\repos\Finexo.App\Finexo.Service\obj\Debug\net6.0\Finexo.Service.csproj.CoreCompileInputs.cache
+C:\Users\Burhan\source\repos\Finexo.App\Finexo.Service\obj\Debug\net6.0\Finexo.Service.csproj.CopyComplete
+C:\Users\Burhan\source\repos\Finexo.App\Finexo.Service\obj\Debug\net6.0\Finexo.Service.dll
+C:\Users\Burhan\source\repos\Finexo.App\Finexo.Service\obj\Debug\net6.0\refint\Finexo.Service.dll
+C:\Users\Burhan\source\repos\Finexo.App\Finexo.Service\obj\Debug\net6.0\Finexo.Service.pdb
+C:\Users\Burhan\source\repos\Finexo.App\Finexo.Service\obj\Debug\net6.0\ref\Finexo.Service.dll

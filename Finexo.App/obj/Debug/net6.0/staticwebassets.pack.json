@@ -1,0 +1,157 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\about-img.jpg",
+      "PackagePath": "staticwebassets\\images\\about-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\images\\about-img.png"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\client1.jpg",
+      "PackagePath": "staticwebassets\\images\\client1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\client2.jpg",
+      "PackagePath": "staticwebassets\\images\\client2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\hero-bg.png",
+      "PackagePath": "staticwebassets\\images\\hero-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\s1.png",
+      "PackagePath": "staticwebassets\\images\\s1.png"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\s2.png",
+      "PackagePath": "staticwebassets\\images\\s2.png"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\s3.png",
+      "PackagePath": "staticwebassets\\images\\s3.png"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\slider-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\slider-img.png",
+      "PackagePath": "staticwebassets\\images\\slider-img.png"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\team-4.jpg",
+      "PackagePath": "staticwebassets\\images\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\track-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\track-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\w1.png",
+      "PackagePath": "staticwebassets\\images\\w1.png"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\w2.png",
+      "PackagePath": "staticwebassets\\images\\w2.png"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\w3.png",
+      "PackagePath": "staticwebassets\\images\\w3.png"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\images\\w4.png",
+      "PackagePath": "staticwebassets\\images\\w4.png"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Burhan\\source\\repos\\Finexo.App\\Finexo.App\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Finexo.App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Finexo.App.props",
+      "PackagePath": "build\\Finexo.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Finexo.App.props",
+      "PackagePath": "buildMultiTargeting\\Finexo.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Finexo.App.props",
+      "PackagePath": "buildTransitive\\Finexo.App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
