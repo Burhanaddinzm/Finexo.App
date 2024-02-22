@@ -9,3 +9,4 @@ C:\Users\Burhan\source\repos\Finexo.App\Finexo.Core\obj\Debug\net6.0\Finexo.Core
 C:\Users\Burhan\source\repos\Finexo.App\Finexo.Core\obj\Debug\net6.0\refint\Finexo.Core.dll
 C:\Users\Burhan\source\repos\Finexo.App\Finexo.Core\obj\Debug\net6.0\Finexo.Core.pdb
 C:\Users\Burhan\source\repos\Finexo.App\Finexo.Core\obj\Debug\net6.0\ref\Finexo.Core.dll
+C:\Users\Burhan\source\repos\Finexo.App\Finexo.Core\obj\Debug\net6.0\Finexo.Core.sourcelink.json

@@ -13,3 +13,4 @@ C:\Users\Burhan\source\repos\Finexo.App\Finexo.Data\obj\Debug\net6.0\Finexo.Data
 C:\Users\Burhan\source\repos\Finexo.App\Finexo.Data\obj\Debug\net6.0\refint\Finexo.Data.dll
 C:\Users\Burhan\source\repos\Finexo.App\Finexo.Data\obj\Debug\net6.0\Finexo.Data.pdb
 C:\Users\Burhan\source\repos\Finexo.App\Finexo.Data\obj\Debug\net6.0\ref\Finexo.Data.dll
+C:\Users\Burhan\source\repos\Finexo.App\Finexo.Data\obj\Debug\net6.0\Finexo.Data.sourcelink.json

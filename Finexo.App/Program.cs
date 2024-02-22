@@ -1,19 +1,9 @@
-using Finexo.Data.Contexts;
-using Microsoft.EntityFrameworkCore;
-
+using Finexo.Data.ServiceRegistirations;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
-builder.Services.AddDbContext<FinexoDbContext>(opt =>
-opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"),
-    cfg =>
-    {
-        cfg.MigrationsHistoryTable("Migrations");
-    }
-));
-
+builder.AddDataLayerServiceRegistiration();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
