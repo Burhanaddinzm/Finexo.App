@@ -10,9 +10,4 @@
     <ProjectReference Include="..\Finexo.Data\Finexo.Data.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\Interfaces\" />
-    <Folder Include="Services\Implementations\" />
-  </ItemGroup>
-
 </Project>

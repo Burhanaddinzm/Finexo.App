@@ -12,5 +12,10 @@ namespace Finexo.Core.Entities
         public string Name { get; set; } = null!;
         public int PositionId { get; set; }
         public Position Position { get; set; }
+        public HashSet<SocialMedia> SocialMedia { get; set; }
+        public Employee()
+        {
+            SocialMedia = new HashSet<SocialMedia>();
+        }
     }
 }

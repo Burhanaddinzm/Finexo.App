@@ -1,9 +1,12 @@
-using Finexo.Data.ServiceRegistirations;
+using Finexo.Data.ServiceRegisterations;
+using Finexo.Service.ServiceRegisterations;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.AddDataLayerServiceRegistiration();
+builder.AddDataLayerServiceRegisteration();
+builder.AddServiceLayerServiceRegisteration();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -9,11 +9,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Finexo.Data.ServiceRegistirations
+namespace Finexo.Data.ServiceRegisterations
 {
     public static class DataLayerServiceRegisterations
     {
-        public static void AddDataLayerServiceRegistiration(this WebApplicationBuilder builder)
+        public static void AddDataLayerServiceRegisteration(this WebApplicationBuilder builder)
         {
             builder.Services.AddDbContext<FinexoDbContext>(opt =>
             opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"),

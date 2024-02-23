@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Finexo.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f85063d19223ff9562b2774c0310f41898a8554")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8117ac753f721a33a678baeb73ddee77f3af94de")]
 [assembly: System.Reflection.AssemblyProductAttribute("Finexo.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Finexo.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

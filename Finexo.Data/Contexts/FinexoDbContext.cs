@@ -1,11 +1,6 @@
 ﻿using Finexo.Core.Entities;
 using Finexo.Core.Entities.BaseEntities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Finexo.Data.Contexts
 {
@@ -16,14 +11,38 @@ namespace Finexo.Data.Contexts
 
         }
 
-        DbSet<Customer> Customers { get; set; }
-        DbSet<Employee> Employees { get; set; }
-        DbSet<Position> Positions { get; set; }
-        DbSet<Service> Services { get; set; }
-        DbSet<Setting> Settings { get; set; }
-        DbSet<Slider> Sliders { get; set; }
-        DbSet<SocialMedia> SocialMedias { get; set; }
-        DbSet<Why> Why { get; set; }
+        public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
+        {
+            foreach (var entry in ChangeTracker.Entries<BaseEntity>())
+            {
+                switch (entry.State)
+                {
+                    case EntityState.Added:
+                        entry.Entity.CreatedAt = DateTime.UtcNow.AddHours(4);
+                        break;
+                    case EntityState.Modified:
+                        entry.Entity.UpdatedAt = DateTime.UtcNow.AddHours(4);
+                        break;
+                }
+            }
+
+            return base.SaveChangesAsync(cancellationToken);
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Setting>().HasNoKey();
+            base.OnModelCreating(modelBuilder);
+        }
+
+        public DbSet<Customer> Customers { get; set; }
+        public DbSet<Employee> Employees { get; set; }
+        public DbSet<Position> Positions { get; set; }
+        public DbSet<Service> Services { get; set; }
+        public DbSet<Setting> Settings { get; set; }
+        public DbSet<Slider> Sliders { get; set; }
+        public DbSet<SocialMedia> SocialMedias { get; set; }
+        public DbSet<Why> Why { get; set; }
 
         //dotnet ef --startup-project ..\Finexo.App migrations add Initial
     }
